@@ -20,21 +20,13 @@ Routing using Tor, I2P, Bluetooth, WiFi Direct, WiFi, Shortwave, and LiFi to ens
 
 Development would require the ability to expose 1M5 as a proxy to Bisq, testing the integration, then documenting it. In addition, a 1M5 Operator/Admin Role would be added to monitor and report on 1M5 effectiveness fixing any bugs that come up while providing an expected level of support.
 
-1M5 is open source under the Unlicense 'license' and free to use. Long-term it is desired to be managed and developed similarly to Bisq's DAO as a Decentralized Autonomous Mission.
+1M5 is open source under the Unlicense 'license' and free to use. 
 
-1M5 currently can access the Tor and I2P networks. Ensuring Tor blocks get routed through I2P until a node with 1M5 that has access to Tor can complete the request needs a little extra work and testing. Additional networks will be integrated in the future.
+1M5 currently can access the Tor and I2P networks and use Bluetooth. Additional networks will be integrated in the future.
 
-* Integration via Proxy: 520 hours @ 1M Satoshis/hr (~$39k USD 1/2020)
-    * Development: ~320 hours
-    * Testing: ~160 hours
-    * Documentation: ~40 hours
-* 1M5 Operator/Admin Role: 25 hours/month @ 1M Satoshis/hr (~$1875 USD/month)
-    * Keep 1M5 online and functioning normally: ~5 hrs/month
-    * Keep 1M5 up to date with latest versions: ~5 hrs/month
-    * Tune 1M5 for optimal performance based on feedback & local peer monitoring: ~5 hrs/month
-    * Fix bugs in a timely manner: ~5 hrs/month
-    * Be available for support issues: ~5 hrs/month
-    * Report on any incidents
+This proposal will only seek to determine how best to integrate 1M5 resulting in a concrete integration project proposal with work breakdown and milestones.
+
+Evaluation + Design + Roadmap + Project Plan: ~80 hours = 80M Satoshis
 
 ## Notes
 The best timing for this integration is unknown especially considering budgeting issues, although DEXs are beginning to get attention.
