@@ -1,5 +1,34 @@
-# Evaluation for Censorship Resistance with 1M5 Integration
-Proposal to evaluate Monero Network for Censorship Resistance by integrating [1M5](https://1m5.io) into its communication stack, inter-node and when accessing public nodes.
+---
+layout: en
+title: Proposal for 1M5 Integration as Proxy
+author: ObjectOrange
+date: March 2020
+amount: 150
+milestones: Reverse-Engineer/Design/Document API
+  - name: March 2020
+    funds: 50
+    done:
+    status: unfinished
+milestones: Implement
+  - name: April 2020
+    funds: 50
+    done:
+    status: unfinished
+milestones: Testnet
+  - name: May 2020
+    funds: 50
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+---
+# Proposal for 1M5 Integration as Proxy
+Proposal to integrate 1M5 [1M5](https://1m5.io) with Monero Network's communication stack, inter-node and when accessing public nodes.
 
 ## Issue
 [Censorship](https://en.wikipedia.org/wiki/Censorship) is the suppression of speech, public communication, or other information, on the basis that such material is considered objectionable, harmful, sensitive, politically incorrect or "inconvenient" as determined by government authorities or by community consensus. Monero, by providing a private decentralized crypto-currency not registered in any jurisdiction, is likely to come under attack by jurisdictions that consider it illegal.
